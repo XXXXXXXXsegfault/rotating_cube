@@ -1,0 +1,1 @@
+asm.exe rotating_cube.asm rotating_cube.exe
